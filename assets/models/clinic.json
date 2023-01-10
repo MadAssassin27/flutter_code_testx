@@ -1,0 +1,34 @@
+[
+    {
+      "id": "k1",
+      "name": "Klinik Sophia Medika Depok",
+      "address": "Jl. Mampang Indah I No.20",
+      "phone": "{021} 77806127",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/819/819235.png",
+      "sort": ["semua", "terdekat"]
+    },
+    {
+      "id": "k2",
+      "name": "Klinik Depok 2000",
+      "address": "JL. Mergonda Raya, Blok A/1",
+      "phone": "{021} 77200217",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/819/819235.png",
+      "sort": ["semua", "partner"]
+    },
+    {
+      "id": "k3",
+      "name": "Klinik Ismail Medika",
+      "address": "JL. Caringin No. 3B",
+      "phone": "{021} 77889269",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/819/819235.png",
+      "sort": ["semua", "bpjs"]
+    },
+    {
+      "id": "k4",
+      "name": "Klinik Sawangan Medika 24 Jam",
+      "address": "Jl. Raya Sawangan No.3",
+      "phone": "{021} 29315685",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/819/819235.png",
+      "sort": ["semua", "bpjs", "partner"]
+    }
+]
