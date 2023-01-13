@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: Consumer<Auth>(
-        builder: (ctx, auth, _) => MaterialApp(
+        builder: (ctx, auth, _) => GetMaterialApp(
           title: 'Clinics and Hospitals',
           theme: ThemeData(
             primaryColor: Colors.blue,

@@ -41,12 +41,10 @@ class HospitalController extends GetxController {
     ),
   ];
 
-  void changeSort(index) {
+  void changeSort(RxString index) {
     print("changeSort");
-    tabIndex = index;
-    Get.to(
-      () => const HomeView(),
-    );
+    tabIndex.value = index.string;
+    update();
   }
 
   findById(String id) {
